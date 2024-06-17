@@ -16,7 +16,9 @@ direction: ltr
 nav:
   home: /
   about: /about/
-  articles: /archives/
+  #articles: /archives/
+  security: /categories/Security/
+  thoughts: /categories/Thoughts/
   #projects: http://github.com/probberechts
 
 
