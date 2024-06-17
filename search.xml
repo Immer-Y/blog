@@ -4,6 +4,38 @@
   
     
     <entry>
+      <title>Thoughts</title>
+      <link href="/blog/2024/06/17/test/"/>
+      <url>/blog/2024/06/17/test/</url>
+      
+        <content type="html"><![CDATA[<p>Test thoughts</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>My New Essay</title>
+      <link href="/blog/2024/06/17/test-ca/"/>
+      <url>/blog/2024/06/17/test-ca/</url>
+      
+        <content type="html"><![CDATA[<p>123</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Essays </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="/blog/2024/06/17/hello-world/"/>
       <url>/blog/2024/06/17/hello-world/</url>
