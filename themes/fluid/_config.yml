@@ -902,7 +902,7 @@ archive:
 #---------------------------
 category:
   enable: true
-  banner_img: /img/img3.png
+  banner_img: /img/img6.png
   banner_img_height: 60
   banner_mask_alpha: 0.3
 
@@ -931,7 +931,7 @@ category:
 #---------------------------
 tag:
   enable: true
-  banner_img: /img/img4.png
+  banner_img: /img/img7.png
   banner_img_height: 80
   banner_mask_alpha: 0.3
   tagcloud:
