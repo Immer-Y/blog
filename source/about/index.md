@@ -1,6 +1,5 @@
 ---
 title: about
-date: 2024-06-17 10:34:06
+layout: about
+date: 2024-06-18 15:06:46
 ---
-
-This is Immer's blog, primarily sharing some vulnerability research studies and PoC compilations, along with occasional daily musings.
