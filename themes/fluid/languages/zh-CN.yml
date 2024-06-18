@@ -7,26 +7,26 @@ home:
 archive:
   menu: '归档'
   title: '归档'
-  subtitle: '归档'
+  subtitle: '不积跬步，无以至千里'
   post_total: '共计 %d 篇文章'
 
 category:
   menu: '分类'
   title: '分类'
-  subtitle: '分类'
+  subtitle: '当狮子落满麻雀'
   post_total: '共计 %d 篇文章'
   more: 'More...'
 
 tag:
   menu: '标签'
   title: '标签'
-  subtitle: '标签'
+  subtitle: '世俗在黑白之间，喧嚣在六弦之外'
   post_total: '共计 %d 篇文章'
 
 about:
   menu: '关于'
   title: '关于'
-  subtitle: '关于'
+  subtitle: '跌落星河的鱼，看孤帆远去的马蹄，浪花吞没的笔'
 
 links:
   menu: '友链'
