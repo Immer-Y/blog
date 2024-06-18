@@ -456,7 +456,7 @@ footer:
 index:
   # 首页 Banner 头图，可以是相对路径或绝对路径，以下相同
   # Path of Banner image, can be a relative path or an absolute path, the same on other pages
-  banner_img: /img/img1.png
+  banner_img: /img/img8.png
 
   # 头图高度，屏幕百分比
   # Height ratio of banner image
@@ -891,7 +891,7 @@ discuss:
 # Archive Page
 #---------------------------
 archive:
-  banner_img: /img/img2.png
+  banner_img: /img/img10.png
   banner_img_height: 60
   banner_mask_alpha: 0.3
 
