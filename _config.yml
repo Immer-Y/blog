@@ -121,3 +121,11 @@ markdown:
     - markdown-it-abbr
     - markdown-it-emoji
     - markdown-it-task-lists
+    - markdown-it-anchor
+    #  options:
+    #    permalink: true
+        #permalinkBefore: true
+        #permalinkSymbol: '#'
+    - markdown-it-toc-done-right
+    #  options:
+    #    listType: 'ul'  # 使用无序列表
