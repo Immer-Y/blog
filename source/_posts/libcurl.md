@@ -1,7 +1,7 @@
 ---
 title: libcurl的静态加载，生成无dll的可执行文件
 date: 2024-06-18 19:58:40
-categories: 安全研究
+categories: [安全研究,工具开发]
 excerpt: 制作工具时需求为生成单一文件，在引用部分库时会产生dll文件。通过工具打包dll有时会报毒，于是研究出该方案。以libcurl举例。
 tags: C++编程
 ---
