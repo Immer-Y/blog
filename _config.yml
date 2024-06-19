@@ -120,3 +120,4 @@ markdown:
     - markdown-it-sub
     - markdown-it-abbr
     - markdown-it-emoji
+    - markdown-it-task-lists
