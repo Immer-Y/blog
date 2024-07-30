@@ -15,7 +15,9 @@ layout: about
 
 以**web渗透**作为重点进行研究，以[长亭漏洞库](https://stack.chaitin.com/vuldb/index)作为研究对象，文章将以从初学者的角度，从**环境搭建，漏洞原理，最终利用脚本化**进行编写。方便自己理解并记录，也希望可以帮助到有所需要的人。
 
-- [ ] 第一篇研究最新的php漏洞[PHP CGI Windows平台远程代码执行漏洞](https://stack.chaitin.com/vuldb/detail/452c1d91-4055-4f1c-b670-60fcaad94c34)。预计研究时间周期为1周。
+- [ ] 第一篇研究最新的php漏洞[PHP CGI Windows平台远程代码执行漏洞](https://stack.chaitin.com/vuldb/detail/452c1d91-4055-4f1c-b670-60fcaad94c34)。
+
+  不只限于该漏洞，历史涉及漏洞，相关性也会进行分析。所需知识涉及`PHP-CGI`, `中间件如何解析`等，预计研究时间需要1个月（最近工作有点忙。。。），希望在24年7月底可以完成。
 
 ### 生活随笔
 
